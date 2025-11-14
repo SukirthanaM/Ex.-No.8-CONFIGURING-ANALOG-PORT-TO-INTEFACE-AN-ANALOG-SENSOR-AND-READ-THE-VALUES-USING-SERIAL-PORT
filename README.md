@@ -327,13 +327,15 @@ void assert_failed(uint8_t *file, uint32_t line)
 #endif
  
 ```
-## Result :
- 
 ## Output  :
+![WhatsApp Image 2025-11-14 at 08 50 40_499baf55](https://github.com/user-attachments/assets/9f8e2edf-51d4-4653-9d56-bacbf31e4b01)
+
+<img width="1920" height="1093" alt="image" src="https://github.com/user-attachments/assets/c16d0455-fadc-4683-99d6-5357cf32842d" />
 
 
 
 
-
+## Result :
+Thus the program verified successfully.
 
 ****
